@@ -1,10 +1,10 @@
 # Proyecto 2: Terminal Unix
 
-Este proyecto consiste en el desarrollo de una aplicación en **C++** que simula una terminal Unix básica. La aplicación gestionará un sistema de archivos dinámico y jerárquico , y permitirá la interacción del usuario a través de un conjunto de comandos Unix fundamentales.
+Este proyecto consiste en el desarrollo de una aplicación en **C++** que simula una terminal Unix básica. La aplicación gestionará un sistema de archivos dinámico y jerárquico, y permitirá la interacción del usuario a través de un conjunto de comandos Unix fundamentales.
 
 ## Descripción del Proyecto
 
-El objetivo principal es crear una terminal funcional que replique la experiencia de un entorno Unix básico. La aplicación debe ser desarrollada en C++ [cite: 42], utilizando estructuras de datos dinámicas propias (no librerías predefinidas del lenguaje) [cite: 45, 46], y será compilada con Visual Studio Code.
+El objetivo principal es crear una terminal funcional que replique la experiencia de un entorno Unix básico. La aplicación debe ser desarrollada en C++, utilizando estructuras de datos dinámicas propias (no librerías predefinidas del lenguaje), y será compilada con Visual Studio Code.
 
 ## Requisitos y Funcionalidades Clave
 
