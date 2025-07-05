@@ -14,7 +14,7 @@ El objetivo principal es crear una terminal funcional que replique la experienci
     * `cd <ruta>`: Cambiar el directorio actual.
     * `ls`: Listar el contenido del directorio actual (nombres de carpetas y archivos).
     * `mkdir <nombre_carpeta>`: Crear una nueva carpeta en el directorio actual.
-    * `rm <nombre_archivo_o_carpeta>`: Eliminar un archivo o una carpeta (si es carpeta, se elimina recursivamente su contenido). [cite: 21]
+    * `rm <nombre_archivo_o_carpeta>`: Eliminar un archivo o una carpeta (si es carpeta, se elimina recursivamente su contenido).
     * `touch <nombre_archivo>`: Crear un nuevo archivo de texto plano en el directorio actual.
     * `exit`: Finalizar la ejecución de la terminal y guardar los cambios.
 
