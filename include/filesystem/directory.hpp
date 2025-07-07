@@ -5,4 +5,3 @@ struct Directory{
     std::string directory_name = "";
 };
 
-void createDirectory();
