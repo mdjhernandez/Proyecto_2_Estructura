@@ -1,4 +1,4 @@
-### Cómo Compilar y Ejecutar Tu Proyecto
+### Cómo Compilar y Ejecutar el Proyecto
 
 Para **compilar** el proyecto, usa el siguiente comando en tu terminal:
 
