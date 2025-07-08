@@ -1,14 +1,16 @@
 #include <string>
 
-struct File{
+struct File
+{
     std::string file_path = "";
     std::string file_name = "";
+    std::string file_content;
 };
 
-void createFile();
+bool createFile(const File &file);
 
-void writeFile();
+bool writeFile(const File &file);
 
-void readFile();
+void readFile(const std::string &file_name, File *file);
 
-void deleteFile();
+bool deleteFile(const std::string &file_name);

@@ -418,5 +418,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-#Build folder
+#Build .exe
 build/*.exe
+
+#output .txt
+output/*.txt

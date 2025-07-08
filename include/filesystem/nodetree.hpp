@@ -18,10 +18,10 @@ struct NodeList
     NodeList *next_node = nullptr;
 };
 
-NodeTree *createNode(bool isFile, std::string path, std::string name);
+NodeTree *createNode(bool isFile, std::string path, std::string name, std::string content);
 
 NodeTree *findPathChild(std::string path, NodeList *list);
 
-void insertNode(NodeTree *&node, bool isFile, std::string path, std::string name);
+void insertNode(NodeTree *&node, bool isFile, std::string path, std::string name, std::string content);
 
 void deleteNode(NodeTree *&node);
