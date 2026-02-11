@@ -52,7 +52,7 @@ void terminalInterface()
 
     do
     {
-        std::cout << "\n--- Terminal María Unix ---\n";
+        std::cout << "\n--- Terminal Maria Unix ---\n";
         std::cout << "Path actual = " << current_path << std::endl;
         std::cout << "Introduce un comando = ";
         std::cin >> command;
@@ -137,7 +137,7 @@ void terminalInterface()
         }
         else if (command == "exit")
         {
-            std::cout << "\nMuchas Gracias por usar la terminal María Unix. ¡Hasta luego!\n";
+            std::cout << "\nMuchas Gracias por usar la terminal Maria Unix. Hasta luego!\n";
         }
         else
         {
